@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">To-Do App</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="Health" >Health</string>
+    <string name="repeat" >repeat</string>
+    <string name="priority">priority</string>
+    <string name="high_priority">high_priority</string>
+    <string name="low_priority" >low_priority</string>
+    <string name="none">none</string>
+    <string name="cancel" >cancel</string>
+    <string name="add_notes" >add_notes</string>
+    <string name="save_notes" >save_notes</string>
+    <string name="task_name">task_name</string>
+    <string name="title">title</string>
+    <string name="todo">todo</string>
+
+
+
+
+    </resources>
